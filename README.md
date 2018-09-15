@@ -1,2 +1,2 @@
 # Bamazon
-CLI app using MySQL Database 
+CLI app using node packages and MySQL Database.
